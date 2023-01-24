@@ -7,6 +7,16 @@ include_in_header: false
 # Changelog
 <br>
 
+### `1.1.0`
+# **Version 1.0.0**
+
+### Added
+- iOS/iPadOS support 🥳
+- With iOS support there also comes the possibility to rotate the icon directly in the canvas
+
+### Fixed
+- Improved color combinations in light mode on macOS
+
 ### `Initial Release`
 # **Version 1.0.0**
 
